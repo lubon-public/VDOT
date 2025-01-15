@@ -25,7 +25,7 @@
         "RegItemValueName": "EnableDynamicContentInWSB",
         "RegItemValueType": "DWord",
         "RegItemValue": "0",
-        "VDIState": "Enabled"
+        "VDIState": "Disabled"
     },
     {
         "RegItemPath": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
@@ -298,7 +298,7 @@
         "RegItemValueName": "DisableContentFileUpdates",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
-        "VDIState": "Enabled"
+        "VDIState": "Disabled"
     },
     {
         "RegItemPath": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
@@ -872,7 +872,7 @@
         "RegItemValueName": "NoSearchInternetInStartMenu",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
-        "VDIState": "Enabled"
+        "VDIState": "Disabled"
     },
     {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CloudContent",
@@ -893,7 +893,7 @@
         "RegItemValueName": "NoResolveSearch",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
-        "VDIState": "Enabled"
+        "VDIState": "Disabled"
     },
     {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Directory UI",
@@ -935,7 +935,7 @@
         "RegItemValueName": "DisableSearchBoxSuggestions",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
-        "VDIState": "Enabled"
+        "VDIState": "Disabled"
     },
     {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer",
